@@ -5,7 +5,7 @@ title: Home
 
 # Hello 👋, I'm Jordy!
 
-**Passionate Developer | Blockchain Enthusiast | Security Auditor**
+***Passionate Developer | Blockchain Enthusiast | Security Auditor***
 
 I love exploring new technologies and applying them to real-world problems. Founder of [Nefkon](https://nefkon.com), dedicated to creating innovative and impactful software solutions.
 
@@ -21,7 +21,7 @@ Currently learning Rust and planning to build innovative projects with it!
 
 <section id="projects" class="projects-section">
 
-## Projects I'm Proud Of
+## Projects I'm Proud Of <br>
 
 {% for project in site.data.projects %}
 <div class="project">
@@ -62,8 +62,6 @@ Currently learning Rust and planning to build innovative projects with it!
 
 </section>
 
-<section id="contact" class="contact-section">
-
 ## Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project or just want to chat!
@@ -74,4 +72,3 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 - [Email](mailto:{{ site.email }})
 - [GitHub](https://github.com/{{ site.github_username }})
 
-</section>
