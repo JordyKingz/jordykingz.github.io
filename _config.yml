@@ -1,0 +1,38 @@
+# Site settings
+title: Jordy de Koning
+description: Passionate Developer | Blockchain Enthusiast | Security Auditor
+author: Jordy de Koning
+email: hello@jordydekoning.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jordydekoning.com" # the base hostname & protocol for your site
+
+# Social media
+twitter_username: developerjordy
+github_username: JordyKingz
+linkedin_username: jordydekoning
+telegram_username: developerjordy
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Collections for projects
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
