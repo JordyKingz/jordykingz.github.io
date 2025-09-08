@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Hello 👋, I'm Jordy!
+# Hello 👋, I'm Jordy!  
 
-***Passionate Developer | Blockchain Enthusiast | Security Auditor***
+Passionate Developer | Blockchain Enthusiast | Security Auditor  
 
 I love exploring new technologies and applying them to real-world problems. 
 
@@ -19,9 +19,10 @@ I actively participate in security audit contests on platforms like Code4rena, S
 
 Currently learning Rust and planning to build something cool with it!
 
-<section id="projects" class="projects-section">
 
-## Projects I'm Proud Of <br>
+## Projects I'm Proud Of  
+
+<section id="projects" class="projects-section">
 
 {% for project in site.data.projects %}
 <div class="project">

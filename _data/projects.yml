@@ -1,36 +1,35 @@
 - name: Yala
   description: The liquidity layer for Bitcoin
-  tvl: "$215.96M"
+  tvl: $217.29M
   url: https://yala.org
-
 - name: Alpha-Charts
-  description: Trading journaling app with AI coaching to help traders track, analyze, and improve their trading strategies.
+  description: Trading journaling app with AI coaching to help traders track, analyze,
+    and improve their trading strategies.
   url: https://alpha-charts.com
-
 - name: OSRSHUB
-  description: Automated Clan Bingo VPS setup in 10 minutes using SaltStack configuration management.
+  description: Automated Clan Bingo VPS setup in 10 minutes using SaltStack configuration
+    management.
   url: https://osrshub.com
-
 - name: RPS8Bit
-  description: Rock Paper Scissors PvP game on Monad testnet. Create games, set wagers, and win $MON!
+  description: Rock Paper Scissors PvP game on Monad testnet. Create games, set wagers,
+    and win $MON!
   url: https://www.rps8bit.xyz/
-
 - name: Aqaro
-  description: Revolutionary protocol for decentralized real estate, democratizing real estate investments using blockchain.
+  description: Revolutionary protocol for decentralized real estate, democratizing
+    real estate investments using blockchain.
   url: https://aqaro.app
-
 - name: Eternal Entities
-  description: NFT project that eternalizes childhood heroes, combining nostalgia and humor in a unique collection.
+  description: NFT project that eternalizes childhood heroes, combining nostalgia
+    and humor in a unique collection.
   url: https://www.eternalentities.io
-
 - name: Gold Exchange
   description: Gold-pegged stable token on the Hedera blockchain (open source contribution)
   url: https://github.com/JordyKingz/gold-exchange-smartcontracts
-
 - name: Nefkon
-  description: Founder of Nefkon, a software development company specializing software applications.
+  description: Founder of Nefkon, a software development company specializing software
+    applications.
   url: https://nefkon.com
-
 - name: GrassRooters
-  description: Co-founder of GrassRooters, a company focused on data-driven solutions for organizations.
+  description: Co-founder of GrassRooters, a company focused on data-driven solutions
+    for organizations.
   url: https://grassrooters.com
