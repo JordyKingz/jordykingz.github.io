@@ -36,9 +36,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add _data/projects.yml
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update TVL data [skip ci]"
-          git push
-        fi
+        git commit --allow-empty -m "update TVL data [skip ci]"
+        git push
