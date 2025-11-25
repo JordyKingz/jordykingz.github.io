@@ -11,8 +11,6 @@ I love exploring new technologies and applying them to real-world problems.
 
 I'm a passionate developer with a keen interest in blockchain technology, DeFi, AI, and cyber security. I'm dedicated to creating innovative and impactful software solutions.
 
-I actively participate in security audit contests on platforms like Code4rena, Sherlock, and CodeHawks, constantly improving my skills and contributing to the security of blockchain projects.
-
 ### 2025 Goals
 
 Currently learning Rust and planning to build something cool with it!
