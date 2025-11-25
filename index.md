@@ -32,9 +32,10 @@ Currently learning Rust and planning to build something cool with it!
 
 </section>
 
-## Technical Skills
 
-<section id="skills">
+<section id="skills">&nbsp;</section>
+
+## Technical Skills
 
 ### Languages
 - Solidity
@@ -58,10 +59,9 @@ Currently learning Rust and planning to build something cool with it!
 - Grafana
 - SaltStack
 
-</section>
+<section id="contact">&nbsp;</section>
 
 ## Let's Connect!
-<section id="contact">
 
 Feel free to reach out if you want to collaborate on a project or just want to chat!  
 
@@ -70,5 +70,3 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 - [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }})
 - [Email](mailto:{{ site.email }})
 - [GitHub](https://github.com/{{ site.github_username }})
-
-</section>
