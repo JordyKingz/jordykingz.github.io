@@ -41,14 +41,16 @@ Currently learning Rust and planning to build something cool with it!
 - Solidity
 - Python
 - Go
-- JavaScript
 - PHP
+- Typescript
 - Rust (Learning)
 
 ### Frameworks
-- Vue.js
+- Foundry
+- Hardhat
 - Laravel
 - Django
+- Vue.js
 
 ### DevOps & Tools
 - Kubernetes
@@ -61,7 +63,7 @@ Currently learning Rust and planning to build something cool with it!
 
 Feel free to reach out if you want to collaborate on a project or just want to chat!  
 
-- [Twitter](https://twitter.com/{{ site.twitter_username }})
+- [X](https://x.com/{{ site.twitter_username }})
 - [Telegram](https://t.me/{{ site.telegram_username }})
 - [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }})
 - [Email](mailto:{{ site.email }})
