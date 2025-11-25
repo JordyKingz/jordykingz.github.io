@@ -13,7 +13,7 @@ I'm a passionate developer with a keen interest in blockchain technology, DeFi, 
 
 ### 2025 Goals
 
-Currently learning Rust and planning to build something cool with it!
+Currently learning Rust and this year I've built a OpenZeppelin Monitor inspired Solana Monitor to track program events and filter transactions thresholds in real-time.
 
 ## Projects I'm Proud Of
 

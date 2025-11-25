@@ -5,6 +5,8 @@ author: Jordy de Koning
 email: hello@jordydekoning.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jordydekoning.com" # the base hostname & protocol for your site
+logo: /assets/images/og-image.png
+image: /assets/images/og-image.png
 
 # Social media
 twitter_username: developerjordy

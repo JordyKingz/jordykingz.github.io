@@ -3,7 +3,7 @@
   tvl: $217.29M
   url: https://yala.org
 - name: Solana Monitor Indexer
-  description: Real-time Solana blockchain indexer and monitoring tool for tracking
+  description: Inspired by OpenZeppelin Monitor, Real-time Solana blockchain indexer and monitoring tool for tracking
     transactions, accounts, and programs, sending alerts on specified events.
   url: https://github.com/JordyKingz/yala-svm-monitor
 - name: Alpha-Charts
