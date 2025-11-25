@@ -15,8 +15,7 @@ I'm a passionate developer with a keen interest in blockchain technology, DeFi, 
 
 Currently learning Rust and planning to build something cool with it!
 
-
-## Projects I'm Proud Of  
+## Projects I'm Proud Of
 
 <section id="projects" class="projects-section">
 
@@ -34,6 +33,8 @@ Currently learning Rust and planning to build something cool with it!
 </section>
 
 ## Technical Skills
+
+<section id="skills">
 
 ### Languages
 - Solidity
@@ -57,7 +58,10 @@ Currently learning Rust and planning to build something cool with it!
 - Grafana
 - SaltStack
 
-## Let's Connect!  
+</section>
+
+## Let's Connect!
+<section id="contact">
 
 Feel free to reach out if you want to collaborate on a project or just want to chat!  
 
@@ -67,3 +71,4 @@ Feel free to reach out if you want to collaborate on a project or just want to c
 - [Email](mailto:{{ site.email }})
 - [GitHub](https://github.com/{{ site.github_username }})
 
+</section>
