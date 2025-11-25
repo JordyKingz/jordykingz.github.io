@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Home
+title: "Home"
+description: "Passionate Developer | Blockchain Enthusiast | Security Auditor"
+image: /assets/images/og-image.png
 ---
 
 # Hello 👋, I'm Jordy!  
