@@ -21,7 +21,7 @@
 - name: Aqaro
   description: Revolutionary protocol for decentralized real estate, democratizing
     real estate investments using blockchain.
-  url: https://aqaro.app
+  url: https://aqaro-dapp.vercel.app/
 - name: Eternal Entities
   description: NFT project that eternalizes childhood heroes, combining nostalgia
     and humor in a unique collection.
