@@ -1,10 +1,11 @@
 - name: Yala
   description: The liquidity layer for Bitcoin
-  tvl: $217.29M
+  tvl: $137.59M
   url: https://yala.org
 - name: Solana Monitor Indexer
-  description: Inspired by OpenZeppelin Monitor, Real-time Solana blockchain indexer and monitoring tool for tracking
-    transactions, accounts, and programs, sending alerts on specified events.
+  description: Inspired by OpenZeppelin Monitor, Real-time Solana blockchain indexer
+    and monitoring tool for tracking transactions, accounts, and programs, sending
+    alerts on specified events.
   url: https://github.com/JordyKingz/yala-svm-monitor
 - name: Alpha-Charts
   description: Trading journaling app with AI coaching to help traders track, analyze,
@@ -30,8 +31,8 @@
   description: Gold-pegged stable token on the Hedera blockchain (open source contribution)
   url: https://github.com/JordyKingz/gold-exchange-smartcontracts
 - name: Chainforce Labs
-  description: Founder of Chainforce Labs, a software development company specializing in blockchain
-    applications.
+  description: Founder of Chainforce Labs, a software development company specializing
+    in blockchain applications.
   url: https://chainforcelabs.xyz
 - name: GrassRooters
   description: Co-founder of GrassRooters, a company focused on data-driven solutions
