@@ -29,6 +29,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Malware lab configuration
+malware:
+  presign_endpoint: /api/presign
+  samples_feed: https://malware-drop.jordydekoning.com/manifest.json
+  bucket_public_url: https://malware.dropbox.ams3.digitaloceanspaces.com
+  bearer_token: OGZkNGM4MGEtNTA4Yi00YWM3LWI2OGYtZTg3MjVlNmM5YzAyOjVyNHR1UmZ6UkV6eXZZUjRNcVJvdVB3QndaUjhmMmtYV1REMXpoWE1aeG1rcHp4NmFaZUtyRXRKNk1rb3Voa00=
+
 # Exclude from processing
 exclude:
   - Gemfile

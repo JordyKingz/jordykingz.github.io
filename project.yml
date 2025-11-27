@@ -1,0 +1,14 @@
+# DigitalOcean Serverless Project Configuration
+packages:
+  - name: app
+    functions:
+      - name: presign
+        runtime: go:1.20
+        # For Go functions, leave main empty - it will look for Main() function
+        web: true
+        environment:
+          DO_API_KEY: ${DO_API_KEY}
+          DO_API_SECRET: ${DO_API_SECRET}
+          DO_API_BUCKET: ${DO_API_BUCKET}
+          DO_API_REGION: ${DO_API_REGION}
+          BEARER_TOKEN: ${BEARER_TOKEN}

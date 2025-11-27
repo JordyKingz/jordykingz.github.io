@@ -1,0 +1,17 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site plus Vercel functions for the malware dropbox.",
+  "scripts": {
+    "dev": "bundle exec jekyll serve",
+    "build": "bundle exec jekyll build"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.940.0",
+    "@aws-sdk/s3-request-presigner": "^3.940.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}

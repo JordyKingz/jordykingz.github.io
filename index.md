@@ -17,9 +17,8 @@ I'm a passionate developer with a keen interest in blockchain technology, DeFi, 
 
 Currently learning Rust and this year I've built a OpenZeppelin Monitor inspired Solana Monitor to track program events and filter transactions thresholds in real-time.
 
+<section id="projects" class="projects-section"></section>
 ## Projects I'm Proud Of
-
-<section id="projects" class="projects-section">
 
 {% for project in site.data.projects %}
 <div class="project">
@@ -31,8 +30,6 @@ Currently learning Rust and this year I've built a OpenZeppelin Monitor inspired
     <a href="{{ project.url }}" target="_blank" class="project-link">Visit {{ project.name }} →</a>
 </div>
 {% endfor %}
-
-</section>
 
 
 <section id="skills">&nbsp;</section>
