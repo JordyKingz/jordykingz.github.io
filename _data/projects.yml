@@ -1,6 +1,6 @@
 - name: Yala
   description: The liquidity layer for Bitcoin
-  tvl: $20.70K
+  tvl: $20.30K
   url: https://yala.org
 - name: Solana Monitor Indexer
   description: Inspired by OpenZeppelin Monitor, Real-time Solana blockchain indexer
